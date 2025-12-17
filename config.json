@@ -1,0 +1,14 @@
+{
+  "app_name": "Girir",
+  "version": "1.0.0",
+  "environment": "development",
+  "features": {
+    "issues": true,
+    "comments": true,
+    "automation": true
+  },
+  "settings": {
+    "debug": true,
+    "log_level": "info"
+  }
+}
