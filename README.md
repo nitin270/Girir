@@ -1,1 +1,22 @@
-IyBHaXJpciBSZXBvc2l0b3J5CgpXZWxjb21lIHRvIHRoZSBHaXJpciByZXBvc2l0b3J5ISDwn5qACgojIyBBYm91dApUaGlzIGlzIGEgZGVtb25zdHJhdGlvbiByZXBvc2l0b3J5IHNob3dpbmcgR2l0SHViIGF1dG9tYXRpb24gY2FwYWJpbGl0aWVzLgoKIyMgRmVhdHVyZXMKLSBJc3N1ZSB0cmFja2luZwotIENvbW1lbnRzIHN5c3RlbQotIEZpbGUgbWFuYWdlbWVudAotIFZlcnNpb24gY29udHJvbAoKIyMgR2V0dGluZyBTdGFydGVkCkNsb25lIHRoaXMgcmVwb3NpdG9yeSBhbmQgc3RhcnQgZXhwbG9yaW5nIQoKYGBgYmFzaApnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL25pdGluMjcwL0dpcmlyLmdpdApgYGAKCiMjIExpY2Vuc2UKTULUCBMCGLJZW5zZQo=
+# Girir Repository
+
+Welcome to the Girir repository! 🚀
+
+## About
+This is a demonstration repository showing GitHub automation capabilities.
+
+## Features
+- Issue tracking
+- Comments system
+- File management
+- Version control
+
+## Getting Started
+Clone this repository and start exploring!
+
+```bash
+git clone https://github.com/nitin270/Girir.git
+```
+
+## License
+MIT License
